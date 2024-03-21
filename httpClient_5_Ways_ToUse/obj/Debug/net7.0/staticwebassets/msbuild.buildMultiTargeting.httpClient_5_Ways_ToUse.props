@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\httpClient_5_Ways_ToUse.props" />
+</Project>

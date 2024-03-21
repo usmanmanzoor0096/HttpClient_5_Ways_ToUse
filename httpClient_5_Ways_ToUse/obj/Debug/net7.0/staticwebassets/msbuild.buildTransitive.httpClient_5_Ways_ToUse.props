@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\httpClient_5_Ways_ToUse.props" />
+</Project>
